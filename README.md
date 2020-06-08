@@ -75,10 +75,4 @@ return
 
 Function diagram:
 
-
-```mermaid
-graph TD
-A[IR Serial Reciver]  --serial port--> B[WinLIRC]
-B --TCP/IP--> C[WinLirc_OBS.ahk]
-C --keyboard emulation--> D[OBS]
-```
+![Diagram](DiagramOBS.PNG)
