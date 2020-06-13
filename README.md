@@ -1,6 +1,6 @@
 ﻿# WinLIRC Remote Control Script
 
-
+By Neumann Gregor
 
 # WinLIRC Client
 This is the default WinLIRC Client, updated for working with Unicode version of AHK (https://www.autohotkey.com/) and any infrared receiver, I use a serial one, is very easy to build and use.
